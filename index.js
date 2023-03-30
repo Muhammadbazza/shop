@@ -10,8 +10,7 @@ let costTv = 45000;
 let costHdd = 300;
 let costBlend = 1300;
 
-
-
+// all the logic goes here
 
 let total  = 10;
 
